@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "src": "assets/photo-05.webp",
+    "title": "A stranger, a conversation",
+    "place": "Bắc Ninh · 2025",
+    "chapter": 0,
+    "caption": "",
+    "ratio": 1.004
+  },
+  {
+    "id": 2,
+    "src": "assets/photo-06.webp",
+    "title": "A face, a place",
+    "place": "Khánh Khê, Lạng Sơn · 2021",
+    "chapter": 0,
+    "caption": "",
+    "ratio": 0.64
+  },
+  {
+    "id": 3,
+    "src": "assets/photo-07.webp",
+    "title": "A life in a portrait",
+    "place": "Lạng Sơn · 2025",
+    "chapter": 0,
+    "caption": "",
+    "ratio": 1.0
+  },
+  {
+    "id": 4,
+    "src": "assets/photo-08.webp",
+    "title": "A local voice",
+    "place": "Công Sơn, Lạng Sơn · 2025",
+    "chapter": 0,
+    "caption": "",
+    "ratio": 1.004
+  },
+  {
+    "id": 5,
+    "src": "assets/photo-09.webp",
+    "title": "At home with Vò",
+    "place": "Lạng Sơn · Fieldwork",
+    "chapter": 0,
+    "caption": "Vò, born in 1968, works in agriculture. He spoke about family life, loss and food self-sufficiency.",
+    "ratio": 1.473
+  },
+  {
+    "id": 6,
+    "src": "assets/photo-10.webp",
+    "title": "A closer encounter",
+    "place": "Lạng Sơn · Fieldwork",
+    "chapter": 0,
+    "caption": "A portrait of Vò, who shared memories of family life and the recent loss of his wife.",
+    "ratio": 1.473
+  },
+  {
+    "id": 7,
+    "src": "assets/photo-11.webp",
+    "title": "An unexpected meeting",
+    "place": "Khánh Khê, Lạng Sơn · 2026",
+    "chapter": 0,
+    "caption": "A young Tày girl encountered among wildflowers.",
+    "ratio": 1.0
+  },
+  {
+    "id": 8,
+    "src": "assets/photo-14.webp",
+    "title": "The games we carry",
+    "place": "Lô Lô Chải, Hà Giang · 2022",
+    "chapter": 1,
+    "caption": "",
+    "ratio": 1.49
+  },
+  {
+    "id": 9,
+    "src": "assets/photo-15.webp",
+    "title": "Carried close",
+    "place": "Y Tý, Lào Cai · 2023",
+    "chapter": 1,
+    "caption": "",
+    "ratio": 1.5
+  },
+  {
+    "id": 10,
+    "src": "assets/photo-17.webp",
+    "title": "Summer water",
+    "place": "Lộc Bình, Lạng Sơn · 2025",
+    "chapter": 1,
+    "caption": "",
+    "ratio": 1.0
+  },
+  {
+    "id": 11,
+    "src": "assets/photo-18.webp",
+    "title": "Preparing another season",
+    "place": "Lộc Bình, Lạng Sơn · 2026",
+    "chapter": 1,
+    "caption": "Farmers prepare fields after the rice harvest.",
+    "ratio": 1.0
+  },
+  {
+    "id": 12,
+    "src": "assets/photo-19.webp",
+    "title": "After the harvest",
+    "place": "Lộc Bình, Lạng Sơn · 2026",
+    "chapter": 1,
+    "caption": "A farmer carries a pitchfork across the harvested fields.",
+    "ratio": 1.5
+  },
+  {
+    "id": 13,
+    "src": "assets/photo-20.webp",
+    "title": "Land in transition",
+    "place": "Lộc Bình, Lạng Sơn · 2026",
+    "chapter": 1,
+    "caption": "A buffalo in a field as smoke rises after the harvest.",
+    "ratio": 1.0
+  },
+  {
+    "id": 14,
+    "src": "assets/photo-21.webp",
+    "title": "A living shoreline",
+    "place": "Sầm Sơn, Thanh Hóa · 2026",
+    "chapter": 1,
+    "caption": "",
+    "ratio": 1.0
+  },
+  {
+    "id": 15,
+    "src": "assets/photo-24.webp",
+    "title": "A ceremony of farewell",
+    "place": "Hoàng Nị Pạ, Hà Giang · 2022",
+    "chapter": 2,
+    "caption": "A Hmong ritual specialist during a funeral ceremony.",
+    "ratio": 1.5
+  },
+  {
+    "id": 16,
+    "src": "assets/photo-25.webp",
+    "title": "The weight of loss",
+    "place": "Lũng Cú, Hà Giang · 2022",
+    "chapter": 2,
+    "caption": "A young woman mourns her older brother during a funeral.",
+    "ratio": 1.599
+  },
+  {
+    "id": 17,
+    "src": "assets/photo-26.webp",
+    "title": "Family and mourning",
+    "place": "Lộc Bình, Lạng Sơn · 2022",
+    "chapter": 2,
+    "caption": "Family members mourn during the funeral of the photographer’s uncle.",
+    "ratio": 1.5
+  },
+  {
+    "id": 18,
+    "src": "assets/photo-27.webp",
+    "title": "The community gathers",
+    "place": "Lạng Sơn · 2025",
+    "chapter": 2,
+    "caption": "A ceremonial procession during the Kỳ Cùng–Tả Phủ festival.",
+    "ratio": 1.478
+  },
+  {
+    "id": 19,
+    "src": "assets/photo-28.webp",
+    "title": "An everyday ritual",
+    "place": "Thiên Mụ Pagoda, Huế · 2024",
+    "chapter": 2,
+    "caption": "",
+    "ratio": 1.481
+  },
+  {
+    "id": 20,
+    "src": "assets/photo-31.webp",
+    "title": "A season held in reserve",
+    "place": "Lạng Sơn · Fieldwork",
+    "chapter": 3,
+    "caption": "Bundles of grain hang against an earthen wall. Household and exact location to be verified.",
+    "ratio": 1.473
+  },
+  {
+    "id": 21,
+    "src": "assets/photo-32.webp",
+    "title": "Walls that hold time",
+    "place": "Lạng Sơn · Fieldwork",
+    "chapter": 3,
+    "caption": "An earth-built house and stored sacks. Household and exact location to be verified.",
+    "ratio": 1.473
+  },
+  {
+    "id": 22,
+    "src": "assets/photo-33.webp",
+    "title": "The river continues",
+    "place": "Khánh Khê, Lạng Sơn · 2026",
+    "chapter": 3,
+    "caption": "Late afternoon light over the Kỳ Cùng River.",
+    "ratio": 0.988
+  }
+]
